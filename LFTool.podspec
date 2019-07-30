@@ -4,8 +4,7 @@ s.version     = 'v1.0.0'
 s.authors     = { 'liulinfei' => '1394389856@qq.com' }
 s.homepage    = 'https://github.com/GaryLiuLF/LFTool'
 s.summary     = 'this is tool.'
-s.source      = { :git => 'https://github.com/GaryLiuLF/LFTool.git',
-:tag => s.version.to_s }
+s.source      = { :git => 'https://github.com/GaryLiuLF/LFTool.git', :tag => s.version.to_s }
 s.license     = { :type => "MIT", :file => "LICENSE" }
 
 s.platform = :ios, '7.0'
