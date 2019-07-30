@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name        = 'LFTool'
-s.version     = 'v1.0.0'
+s.version     = '1.0.0'
 s.authors     = { 'liulinfei' => '1394389856@qq.com' }
 s.homepage    = 'https://github.com/GaryLiuLF/LFTool'
 s.summary     = "LFTool."
