@@ -1,0 +1,16 @@
+PODS:
+  - LFTool (2.0.0)
+
+DEPENDENCIES:
+  - LFTool
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LFTool
+
+SPEC CHECKSUMS:
+  LFTool: d69140d60142a715ed7f0747dbc5042188a1ffce
+
+PODFILE CHECKSUM: e15087164db8f9d9d7ef341d6c2b2bfc1a3c5819
+
+COCOAPODS: 1.6.1
